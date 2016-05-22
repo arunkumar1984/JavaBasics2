@@ -1,2 +1,13 @@
-# JavaBasics2
-Print 1 to 100, Even under 100, Avg of marks until user exits
+## Java Basics Project -- 05/21/2016
+
+*Using Java basic concepts*
+
+**Java 7**
+
+* Scanner
+* String
+* Primitives
+* do, while loop
+* If/else
+
+[Arunkumar Venkatraman](http://sqasolution.com)
